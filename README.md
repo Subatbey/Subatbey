@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subatbey
+- 👋 Hi, I’m @febrero
 - 👀 I’m interested in HTML CSS and javaScript
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on 
